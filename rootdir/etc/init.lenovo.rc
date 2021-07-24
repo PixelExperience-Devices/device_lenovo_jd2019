@@ -1,0 +1,4 @@
+on boot
+    chown system system /dev/goodix_fp
+    chmod 666 /dev/goodix_fp
+
