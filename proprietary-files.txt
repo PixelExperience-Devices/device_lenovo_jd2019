@@ -159,7 +159,17 @@ vendor/lib64/vendor.qti.gnss@4.0-service.so|3c75d133af5193436167380aa89abcf05d07
 vendor/lib64/vendor.qti.gnss@4.0.so|cc2504016d0ce0afbc58ac95207a4b913f2ccfe9
 vendor/lib64/vendor.qti.hardware.cacert@1.0.so|398e5510db4d739de008b7230aa6e688d6c51a8a
 
+# Sensor-calibrate
+vendor/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so
+vendor/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so
+
 # Sensors
+vendor/bin/sensors.qti
+vendor/lib64/libsensorcal.so
+vendor/lib/libsensorcal.so
+vendor/lib64/libsensorndkbridge.so
+vendor/lib64/libssc.so
+vendor/lib/libssc.so
 vendor/lib64/sensors.ssc.so
 vendor/lib/sensors.ssc.so
 vendor/lib64/libsns_fastRPC_util.so
