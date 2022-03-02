@@ -1,2 +1,5 @@
 # Bluetooth
 bluetooth.device.default_name=Lenovo Z5s
+
+# USB
+vendor.usb.product_string=Lenovo Z5s
